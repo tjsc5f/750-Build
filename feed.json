@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Riveting Aviatrix",
+    "description": "",
+    "home_page_url": "https://tjsc5f.github.io/750-Build",
+    "feed_url": "https://tjsc5f.github.io/750-Build/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Raquel"
+    },
+    "items": [
+        {
+            "id": "https://tjsc5f.github.io/750-Build/in-the-beginning-2.html",
+            "url": "https://tjsc5f.github.io/750-Build/in-the-beginning-2.html",
+            "title": "In the Beginning...",
+            "summary": "Skeleton's out of the closet. Skinning. Flying in no time. ",
+            "content_html": "<p>Skeleton's out of the closet.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tjsc5f.github.io/750-Build/media/posts/3/PXL_20211007_181812662.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211007_181812662-xs.jpg 300w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211007_181812662-sm.jpg 480w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211007_181812662-md.jpg 768w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211007_181812662-lg.jpg 1024w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211007_181812662-xl.jpg 1360w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211007_181812662-2xl.jpg 1600w\"  alt=\"\" width=\"4012\" height=\"1666\"></figure>\n<p>Skinning.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tjsc5f.github.io/750-Build/media/posts/3/PXL_20211007_191624598.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211007_191624598-xs.jpg 300w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211007_191624598-sm.jpg 480w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211007_191624598-md.jpg 768w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211007_191624598-lg.jpg 1024w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211007_191624598-xl.jpg 1360w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211007_191624598-2xl.jpg 1600w\"  alt=\"Skinning\" width=\"3024\" height=\"4032\"></figure>\n<p>Flying in no time.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tjsc5f.github.io/750-Build/media/posts/3/PXL_20211008_145637225-4.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211008_145637225-4-xs.jpg 300w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211008_145637225-4-sm.jpg 480w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211008_145637225-4-md.jpg 768w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211008_145637225-4-lg.jpg 1024w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211008_145637225-4-xl.jpg 1360w ,https://tjsc5f.github.io/750-Build/media/posts/3/responsive/PXL_20211008_145637225-4-2xl.jpg 1600w\"  alt=\"\" width=\"3024\" height=\"4032\"></figure>",
+            "author": {
+                "name": "Raquel"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-12T21:17:55-05:00",
+            "date_modified": "2021-10-12T21:36:04-05:00"
+        },
+        {
+            "id": "https://tjsc5f.github.io/750-Build/factory-tour.html",
+            "url": "https://tjsc5f.github.io/750-Build/factory-tour.html",
+            "title": "Factory Tour",
+            "summary": "Zenith CH750 Cruzer @ the factory in Mexico, MO! ",
+            "content_html": "<p>Zenith CH750 Cruzer @ the factory in Mexico, MO!</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://tjsc5f.github.io/750-Build/media/posts/2/20115188329_19f77cd833_o.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://tjsc5f.github.io/750-Build/media/posts/2/responsive/20115188329_19f77cd833_o-xs.jpg 300w ,https://tjsc5f.github.io/750-Build/media/posts/2/responsive/20115188329_19f77cd833_o-sm.jpg 480w ,https://tjsc5f.github.io/750-Build/media/posts/2/responsive/20115188329_19f77cd833_o-md.jpg 768w ,https://tjsc5f.github.io/750-Build/media/posts/2/responsive/20115188329_19f77cd833_o-lg.jpg 1024w ,https://tjsc5f.github.io/750-Build/media/posts/2/responsive/20115188329_19f77cd833_o-xl.jpg 1360w ,https://tjsc5f.github.io/750-Build/media/posts/2/responsive/20115188329_19f77cd833_o-2xl.jpg 1600w\"  alt=\"\"></figure>",
+            "author": {
+                "name": "Raquel"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-12T21:14:38-05:00",
+            "date_modified": "2021-10-12T21:15:31-05:00"
+        }
+    ]
+}
