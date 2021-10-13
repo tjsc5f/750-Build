@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Riveting Aviatrix</title>
-    <link href="https://tjsc5f.github.io/feed.xml" rel="self" />
-    <link href="https://tjsc5f.github.io" />
+    <link href="https://tjsc5f.github.io/tjsc5f.github.io-1/feed.xml" rel="self" />
+    <link href="https://tjsc5f.github.io/tjsc5f.github.io-1" />
     <updated>2021-10-12T22:00:57-05:00</updated>
     <author>
         <name>Raquel</name>
     </author>
-    <id>https://tjsc5f.github.io</id>
+    <id>https://tjsc5f.github.io/tjsc5f.github.io-1</id>
 
     <entry>
         <title>In the Beginning...</title>
         <author>
             <name>Raquel</name>
         </author>
-        <link href="https://tjsc5f.github.io/in-the-beginning-2.html"/>
-        <id>https://tjsc5f.github.io/in-the-beginning-2.html</id>
+        <link href="https://tjsc5f.github.io/tjsc5f.github.io-1/in-the-beginning-2.html"/>
+        <id>https://tjsc5f.github.io/tjsc5f.github.io-1/in-the-beginning-2.html</id>
 
         <updated>2021-10-12T22:00:57-05:00</updated>
             <summary>
@@ -26,11 +26,11 @@
         <content type="html">
             <![CDATA[
                 <p>Skeleton's out of the closet.</p>
-<figure class="post__image"><img loading="lazy"  src="https://tjsc5f.github.io/media/posts/3/PXL_20211007_181812662.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211007_181812662-xs.jpg 300w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211007_181812662-sm.jpg 480w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211007_181812662-md.jpg 768w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211007_181812662-lg.jpg 1024w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211007_181812662-xl.jpg 1360w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211007_181812662-2xl.jpg 1600w"  alt="" width="4012" height="1666"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/PXL_20211007_181812662.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211007_181812662-xs.jpg 300w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211007_181812662-sm.jpg 480w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211007_181812662-md.jpg 768w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211007_181812662-lg.jpg 1024w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211007_181812662-xl.jpg 1360w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211007_181812662-2xl.jpg 1600w"  alt="" width="4012" height="1666"></figure>
 <p>Skinning.</p>
-<figure class="post__image"><img loading="lazy"  src="https://tjsc5f.github.io/media/posts/3/PXL_20211007_191624598.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211007_191624598-xs.jpg 300w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211007_191624598-sm.jpg 480w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211007_191624598-md.jpg 768w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211007_191624598-lg.jpg 1024w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211007_191624598-xl.jpg 1360w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211007_191624598-2xl.jpg 1600w"  alt="Skinning" width="3024" height="4032"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/PXL_20211007_191624598.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211007_191624598-xs.jpg 300w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211007_191624598-sm.jpg 480w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211007_191624598-md.jpg 768w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211007_191624598-lg.jpg 1024w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211007_191624598-xl.jpg 1360w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211007_191624598-2xl.jpg 1600w"  alt="Skinning" width="3024" height="4032"></figure>
 <p>Flying in no time.</p>
-<figure class="post__image"><img loading="lazy"  src="https://tjsc5f.github.io/media/posts/3/PXL_20211008_145637225-4.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211008_145637225-4-xs.jpg 300w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211008_145637225-4-sm.jpg 480w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211008_145637225-4-md.jpg 768w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211008_145637225-4-lg.jpg 1024w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211008_145637225-4-xl.jpg 1360w ,https://tjsc5f.github.io/media/posts/3/responsive/PXL_20211008_145637225-4-2xl.jpg 1600w"  alt="" width="3024" height="4032"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/PXL_20211008_145637225-4.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211008_145637225-4-xs.jpg 300w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211008_145637225-4-sm.jpg 480w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211008_145637225-4-md.jpg 768w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211008_145637225-4-lg.jpg 1024w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211008_145637225-4-xl.jpg 1360w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/3/responsive/PXL_20211008_145637225-4-2xl.jpg 1600w"  alt="" width="3024" height="4032"></figure>
             ]]>
         </content>
     </entry>
@@ -39,8 +39,8 @@
         <author>
             <name>Raquel</name>
         </author>
-        <link href="https://tjsc5f.github.io/factory-tour.html"/>
-        <id>https://tjsc5f.github.io/factory-tour.html</id>
+        <link href="https://tjsc5f.github.io/tjsc5f.github.io-1/factory-tour.html"/>
+        <id>https://tjsc5f.github.io/tjsc5f.github.io-1/factory-tour.html</id>
 
         <updated>2021-10-12T22:00:32-05:00</updated>
             <summary>
@@ -51,7 +51,7 @@
         <content type="html">
             <![CDATA[
                 <p>Zenith CH750 Cruzer @ the factory in Mexico, MO!</p>
-<figure class="post__image"><img loading="lazy"  src="https://tjsc5f.github.io/media/posts/2/20115188329_19f77cd833_o.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tjsc5f.github.io/media/posts/2/responsive/20115188329_19f77cd833_o-xs.jpg 300w ,https://tjsc5f.github.io/media/posts/2/responsive/20115188329_19f77cd833_o-sm.jpg 480w ,https://tjsc5f.github.io/media/posts/2/responsive/20115188329_19f77cd833_o-md.jpg 768w ,https://tjsc5f.github.io/media/posts/2/responsive/20115188329_19f77cd833_o-lg.jpg 1024w ,https://tjsc5f.github.io/media/posts/2/responsive/20115188329_19f77cd833_o-xl.jpg 1360w ,https://tjsc5f.github.io/media/posts/2/responsive/20115188329_19f77cd833_o-2xl.jpg 1600w"  alt=""></figure>
+<figure class="post__image"><img loading="lazy"  src="https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/2/20115188329_19f77cd833_o.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/2/responsive/20115188329_19f77cd833_o-xs.jpg 300w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/2/responsive/20115188329_19f77cd833_o-sm.jpg 480w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/2/responsive/20115188329_19f77cd833_o-md.jpg 768w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/2/responsive/20115188329_19f77cd833_o-lg.jpg 1024w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/2/responsive/20115188329_19f77cd833_o-xl.jpg 1360w ,https://tjsc5f.github.io/tjsc5f.github.io-1/media/posts/2/responsive/20115188329_19f77cd833_o-2xl.jpg 1600w"  alt=""></figure>
             ]]>
         </content>
     </entry>
