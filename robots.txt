@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://rivetingaviator.tk/sitemap.xml
+Sitemap: https://tjsc5f.github.io/sitemap.xml
