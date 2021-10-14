@@ -3,12 +3,28 @@
     <title>Riveting Aviatrix</title>
     <link href="https://www.rivetingaviator.tk/feed.xml" rel="self" />
     <link href="https://www.rivetingaviator.tk" />
-    <updated>2021-10-13T00:24:19-05:00</updated>
+    <updated>2021-10-13T21:40:40-05:00</updated>
     <author>
         <name>Tom Jones</name>
     </author>
     <id>https://www.rivetingaviator.tk</id>
 
+    <entry>
+        <title>Demo Flight</title>
+        <author>
+            <name>Tom Jones</name>
+        </author>
+        <link href="https://www.rivetingaviator.tk/demo-flight.html"/>
+        <id>https://www.rivetingaviator.tk/demo-flight.html</id>
+
+        <updated>2021-10-13T21:30:44-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/y6lvlZOe3E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>In the Beginning...</title>
         <author>
@@ -17,7 +33,7 @@
         <link href="https://www.rivetingaviator.tk/in-the-beginning-2.html"/>
         <id>https://www.rivetingaviator.tk/in-the-beginning-2.html</id>
 
-        <updated>2021-10-13T00:24:19-05:00</updated>
+        <updated>2021-10-13T21:40:40-05:00</updated>
             <summary>
                 <![CDATA[
                     Skeleton's out of the closet. Skinning. Flying in no time. 
@@ -26,9 +42,9 @@
         <content type="html">
             <![CDATA[
                 <p>Skeleton's out of the closet.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rivetingaviator.tk/media/posts/3/PXL_20211007_181812662.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211007_181812662-xs.jpg 300w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211007_181812662-sm.jpg 480w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211007_181812662-md.jpg 768w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211007_181812662-lg.jpg 1024w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211007_181812662-xl.jpg 1360w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211007_181812662-2xl.jpg 1600w"  alt="" width="4012" height="1666"></figure>
+<p><a href="https://lh3.googleusercontent.com/jCRkCp-LxhISt0fSrCmrWBwWsMXfDfXMMLcjvEXStDMAeww9Pfs62IwkjNOybxImD6KnbiICkvo4pgSEAO0LiMu0sxrE9-AtcGaKxVwwad37P0htc1jllKGz0dq-PX4T7LTa7CrpUw=w2400?source=screenshot.guru"> </a><a href="https://lh3.googleusercontent.com/jCRkCp-LxhISt0fSrCmrWBwWsMXfDfXMMLcjvEXStDMAeww9Pfs62IwkjNOybxImD6KnbiICkvo4pgSEAO0LiMu0sxrE9-AtcGaKxVwwad37P0htc1jllKGz0dq-PX4T7LTa7CrpUw=w2400?source=screenshot.guru"> <img loading="lazy" src="https://lh3.googleusercontent.com/jCRkCp-LxhISt0fSrCmrWBwWsMXfDfXMMLcjvEXStDMAeww9Pfs62IwkjNOybxImD6KnbiICkvo4pgSEAO0LiMu0sxrE9-AtcGaKxVwwad37P0htc1jllKGz0dq-PX4T7LTa7CrpUw=w800-h315-p-k" data-is-external-image="true" ></a></p>
 <p>Skinning.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rivetingaviator.tk/media/posts/3/PXL_20211007_191624598.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211007_191624598-xs.jpg 300w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211007_191624598-sm.jpg 480w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211007_191624598-md.jpg 768w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211007_191624598-lg.jpg 1024w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211007_191624598-xl.jpg 1360w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211007_191624598-2xl.jpg 1600w"  alt="Skinning" width="3024" height="4032"></figure>
+<p><a href="https://lh3.googleusercontent.com/hQuGBuVrvOkLpI3YEMycKtGXJdUNeP-3kwy-aA8-LILFDkbb9W5KoGFWJWq_bdyX4Cz38IVacxqs1EueCvfnJwHcOYtuFfIQrPdIBa1bPkN0wZuXPclGZxYWt3eXfVFMF__sMY8P_A=w2400?source=screenshot.guru"> </a><a href="https://lh3.googleusercontent.com/hQuGBuVrvOkLpI3YEMycKtGXJdUNeP-3kwy-aA8-LILFDkbb9W5KoGFWJWq_bdyX4Cz38IVacxqs1EueCvfnJwHcOYtuFfIQrPdIBa1bPkN0wZuXPclGZxYWt3eXfVFMF__sMY8P_A=w2400?source=screenshot.guru"> </a><a href="https://lh3.googleusercontent.com/hQuGBuVrvOkLpI3YEMycKtGXJdUNeP-3kwy-aA8-LILFDkbb9W5KoGFWJWq_bdyX4Cz38IVacxqs1EueCvfnJwHcOYtuFfIQrPdIBa1bPkN0wZuXPclGZxYWt3eXfVFMF__sMY8P_A=w2400?source=screenshot.guru"> <img loading="lazy" src="https://lh3.googleusercontent.com/hQuGBuVrvOkLpI3YEMycKtGXJdUNeP-3kwy-aA8-LILFDkbb9W5KoGFWJWq_bdyX4Cz38IVacxqs1EueCvfnJwHcOYtuFfIQrPdIBa1bPkN0wZuXPclGZxYWt3eXfVFMF__sMY8P_A=w800-h800-p-k" data-is-external-image="true" > </a><a href="https://lh3.googleusercontent.com/hQuGBuVrvOkLpI3YEMycKtGXJdUNeP-3kwy-aA8-LILFDkbb9W5KoGFWJWq_bdyX4Cz38IVacxqs1EueCvfnJwHcOYtuFfIQrPdIBa1bPkN0wZuXPclGZxYWt3eXfVFMF__sMY8P_A=w2400?source=screenshot.guru"> </a><a href="https://lh3.googleusercontent.com/hQuGBuVrvOkLpI3YEMycKtGXJdUNeP-3kwy-aA8-LILFDkbb9W5KoGFWJWq_bdyX4Cz38IVacxqs1EueCvfnJwHcOYtuFfIQrPdIBa1bPkN0wZuXPclGZxYWt3eXfVFMF__sMY8P_A=w2400?source=screenshot.guru"> </a></p>
 <p>Flying in no time.</p>
 <figure class="post__image"><img loading="lazy"  src="https://www.rivetingaviator.tk/media/posts/3/PXL_20211008_145637225-4.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211008_145637225-4-xs.jpg 300w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211008_145637225-4-sm.jpg 480w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211008_145637225-4-md.jpg 768w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211008_145637225-4-lg.jpg 1024w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211008_145637225-4-xl.jpg 1360w ,https://www.rivetingaviator.tk/media/posts/3/responsive/PXL_20211008_145637225-4-2xl.jpg 1600w"  alt="" width="3024" height="4032"></figure>
             ]]>
